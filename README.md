@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=yagi-web" />
@@ -19,7 +17,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,figma," />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,php,mysql,github,figma,notion," />
 <br>
 
 
